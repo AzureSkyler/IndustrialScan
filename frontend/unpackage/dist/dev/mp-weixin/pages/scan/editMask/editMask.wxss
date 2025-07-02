@@ -1,0 +1,49 @@
+
+.fillMax {
+		display: flex;
+		flex-direction: column;
+		
+		width: 100vw;
+		height: 100vh;
+}
+.previewView{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex: 13;
+}
+.takeTools{
+		flex: 1;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-color: #000000;
+}
+.takePhoto{
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		aspect-ratio:1/1;
+		height: 50%;
+		border: 1.5px solid #ffffff;
+		border-radius: 50%;
+}
+.takePhoto::after{
+		display: block;
+		content: '√';
+		aspect-ratio:1/1;
+		height: 95%;
+		background-color: #ffffff;
+		border-radius: 50%;
+}
+image{
+		position: relative;
+		width: 90%;
+}
+#mask {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+}

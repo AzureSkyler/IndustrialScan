@@ -1,0 +1,1 @@
+<view class="fillMax"><camera class="previewView" resolution="high" device-position="back" flash="off" frame-size="max" binderror="{{a}}"></camera><view class="takeTools"><view class="takePhoto" bindtap="{{b}}"></view></view></view>

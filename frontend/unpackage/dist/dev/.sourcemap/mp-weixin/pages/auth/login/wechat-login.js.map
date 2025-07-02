@@ -1,0 +1,1 @@
+{"version":3,"file":"wechat-login.js","sources":["../../../../HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvYXV0aC9sb2dpbi93ZWNoYXQtbG9naW4udnVl"],"sourcesContent":["import MiniProgramPage from 'C:/Data/Develope/WorkSpace/Github/IndustrialScan/frontend/pages/auth/login/wechat-login.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}

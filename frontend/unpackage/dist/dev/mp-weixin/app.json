@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/scan/listenCamera/listenCamera",
+    "pages/scan/editMask/editMask",
+    "pages/auth/login/login",
+    "pages/auth/register/register",
+    "pages/auth/login/wechat-login"
+  ],
+  "window": {},
+  "usingComponents": {}
+}
